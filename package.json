@@ -1,6 +1,6 @@
 {
   "name": "amba-tea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic demonstration app",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/charles553424/amba-tea.git"
   },
+  "dependencies": {
+    "amba-tea": "1.0.1",
+    "cheh-demonstration": "1.0.2"
   "author": "",
   "license": "ISC",
   "bugs": {
