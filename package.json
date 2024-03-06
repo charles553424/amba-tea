@@ -12,7 +12,10 @@
   },
   "dependencies": {
     "amba-tea": "1.0.2",
-    "cheh-demonstration": "1.0.2"
+    "cheh-demonstration": "1.0.2",
+    "cilent-team": "1.0.0",
+    "tea-borya": "1.0.0"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
